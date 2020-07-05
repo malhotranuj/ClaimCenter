@@ -1,1 +1,3 @@
 Copy of my 1st training text file.
+Changes made by another developer.
+
