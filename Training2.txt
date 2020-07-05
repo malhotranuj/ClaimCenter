@@ -1,2 +1,1 @@
 Copy of my 1st training text file.
-Changes made by me that conflict with the changes made by another developer.
