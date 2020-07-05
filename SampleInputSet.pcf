@@ -7,5 +7,10 @@
     <TextInput
       id="test"
       value="&quot;test&quot;"/>
+    <CheckBoxInput
+      editable="true"
+      id="TestCheckbox"
+      label="&quot;in July Release&quot;"
+      value="true"/>
   </InputSet>
 </PCF>
